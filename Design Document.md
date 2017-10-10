@@ -7,7 +7,7 @@ You escape destruction in the tutorial level and must use tmeporary vision to gu
 
 ### Mechanics
 * With physics based movement, the player controls thrusters on the character to change horizontal and vertical speed and momentum. 
-#### vision mechanic
+#### Vision mechanic
 * An intermittent static pulse of vision projects from the players position allowing you to see a radius around the player.
 * The pulse will slowly fade away over time.
 
@@ -21,11 +21,23 @@ You escape destruction in the tutorial level and must use tmeporary vision to gu
 * Later levels generate more difficult rooms to increase the challenge.
 * Minimalist and atmospheric art style like in Limbo and Sunless Sea. Mostly in black and white.
 
+### Objectives and Goals
+* 
+* 
+*
+
+### Obstacles
+* Stationary and moving Saw blades that the player must avoid to not get killed.
+* Trap Spikes that the player must avoid.
+* Laser beams that turn on and off, the player must not touch them and get past them.
+* Gravity well that attracts the player to it's centre destroying you, player must avoid getting sucked in by it.
+
+
 ### Target Market
 * 16 – 30 year olds.
 * Gamers who enjoy difficult games like Super Meat Boy and Spelunky.
 
 
-#### Player conrols
+### Player conrols
 * WASD keys
 * potential controller support
