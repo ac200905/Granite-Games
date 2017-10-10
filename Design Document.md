@@ -16,6 +16,9 @@ You escape destruction in the tutorial level and must use tmeporary vision to gu
 * An intermittent pulse of vision projects from the players position allowing you to see a radius around the player.
 * The pulse will slowly fade away quickly over time.
 * Things further from you look blurry.
+* Every 5 levels there is a spair component to collect that will upgrade your vision mechanic.
+#### collectible Powerups
+* Protective forcefield - allows you to take damage once, saving your life.
 
 ### Rules
 * Don’t bash into anything! Speeding into a wall to fast will kill you.
